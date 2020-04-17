@@ -1,0 +1,894 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o (exit)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o (__libc_init_array)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o (memset)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o (initialise_monitor_handles)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o) (_exit)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o) (_kill_shared)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o) (__errno)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o) (__sinit)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (_fwalk)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (_malloc_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (__sread)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o) (strlen)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_write_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_close_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (_fflush_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_lseek_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o) (_free_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_read_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+                              /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o (printf)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+                              /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o (putchar)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o) (_putc_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o) (memcpy)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o) (memmove)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+/home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+                              /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+errno               0x4               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o
+ .text          0x0000000000000000        0x0 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x7a /tmp/ccJAKW8G.debug.temp.o
+ .data          0x0000000000000000        0x0 /tmp/ccm11qPB.o
+ .bss           0x0000000000000000        0x0 /tmp/ccm11qPB.o
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+ .text._putchar_r
+                0x0000000000000000       0x1e /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1a /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x14 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+ .text.putc     0x0000000000000000       0x10 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x10 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x294 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x3c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x0000000000000000       0x1c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000000       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x34 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x4c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000000       0x3c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x10 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._getpid  0x0000000000000000        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._open    0x0000000000000000       0x12 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._link    0x0000000000000000       0x10 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._unlink  0x0000000000000000       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._gettimeofday
+                0x0000000000000000       0x2a /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._clock   0x0000000000000000       0x12 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._times   0x0000000000000000       0x16 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._system  0x0000000000000000       0x3c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._rename  0x0000000000000000       0x36 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .text._kill    0x0000000000000000       0x18 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x18 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x18 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x1c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x1c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x3a /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000020000 xr
+RAM              0x0000000010000000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o
+LOAD /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+LOAD /tmp/ccJAKW8G.debug.temp.o
+LOAD /tmp/ccm11qPB.o
+START GROUP
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a
+END GROUP
+START GROUP
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a
+END GROUP
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+LOAD /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+.text           0x0000000000000000     0x188c
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0x44 /tmp/ccm11qPB.o
+                0x0000000000000000                __isr_vector
+ *(.text*)
+ .text          0x0000000000000044       0x40 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000084       0xe8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o
+                0x0000000000000084                _mainCRTStartup
+                0x0000000000000084                _start
+ .text.SystemInit
+                0x000000000000016c        0x2 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+                0x000000000000016c                SystemInit
+ *fill*         0x000000000000016e        0x2 
+ .text.startup.main
+                0x0000000000000170       0x14 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+                0x0000000000000170                main
+ .text          0x0000000000000184       0x2c /tmp/ccm11qPB.o
+                0x0000000000000184                Reset_Handler
+                0x00000000000001ac                DebugMon_Handler
+                0x00000000000001ac                HardFault_Handler
+                0x00000000000001ac                SysTick_Handler
+                0x00000000000001ac                PendSV_Handler
+                0x00000000000001ac                NMI_Handler
+                0x00000000000001ac                UsageFault_Handler
+                0x00000000000001ac                Default_Handler
+                0x00000000000001ac                MemManage_Handler
+                0x00000000000001ac                SVC_Handler
+                0x00000000000001ac                DEF_IRQHandler
+                0x00000000000001ac                BusFault_Handler
+ .text.exit     0x00000000000001b0       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+                0x00000000000001b0                exit
+ .text.__libc_init_array
+                0x00000000000001d8       0x48 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                0x00000000000001d8                __libc_init_array
+ .text.memset   0x0000000000000220       0x10 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x0000000000000220                memset
+ .text.printf   0x0000000000000230       0x30 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+                0x0000000000000230                printf
+                0x0000000000000230                iprintf
+ .text.putchar  0x0000000000000260       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+                0x0000000000000260                putchar
+ .text.__sfputc_r
+                0x0000000000000288       0x2a /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00000000000002b2       0x24 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000002b2                __sfputs_r
+ *fill*         0x00000000000002d6        0x2 
+ .text._vfprintf_r
+                0x00000000000002d8      0x260 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000002d8                _vfiprintf_r
+                0x00000000000002d8                _vfprintf_r
+ .text._printf_common
+                0x0000000000000538       0xde /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000000538                _printf_common
+ *fill*         0x0000000000000616        0x2 
+ .text._printf_i
+                0x0000000000000618      0x24c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000000618                _printf_i
+ .text._putc_r  0x0000000000000864       0x90 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+                0x0000000000000864                _putc_r
+ .text.__swbuf_r
+                0x00000000000008f4       0xa4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+                0x00000000000008f4                __swbuf_r
+ .text.__swsetup_r
+                0x0000000000000998       0xdc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+                0x0000000000000998                __swsetup_r
+ .text.__swhatbuf_r
+                0x0000000000000a74       0x48 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+                0x0000000000000a74                __swhatbuf_r
+ .text.__smakebuf_r
+                0x0000000000000abc       0x80 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+                0x0000000000000abc                __smakebuf_r
+ .text.memchr   0x0000000000000b3c       0x1c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+                0x0000000000000b3c                memchr
+ .text._fstat_r
+                0x0000000000000b58       0x24 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+                0x0000000000000b58                _fstat_r
+ .text._isatty_r
+                0x0000000000000b7c       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+                0x0000000000000b7c                _isatty_r
+ .text.findslot
+                0x0000000000000b9c       0x34 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.checkerror
+                0x0000000000000bd0       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.error    0x0000000000000bf0       0x1c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiread
+                0x0000000000000c0c       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000c0c                _swiread
+ .text._read    0x0000000000000c2c       0x34 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000c2c                _read
+ .text._swilseek
+                0x0000000000000c60       0x78 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000c60                _swilseek
+ .text._lseek   0x0000000000000cd8        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000cd8                _lseek
+ .text._swiwrite
+                0x0000000000000cdc       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000cdc                _swiwrite
+ .text._write   0x0000000000000cfc       0x40 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000cfc                _write
+ .text._swiclose
+                0x0000000000000d3c       0x1a /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000d3c                _swiclose
+ *fill*         0x0000000000000d56        0x2 
+ .text._close   0x0000000000000d58       0x4c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000d58                _close
+ .text._sbrk    0x0000000000000da4       0x48 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000da4                _sbrk
+ .text._swistat
+                0x0000000000000dec       0x42 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000dec                _swistat
+ .text._fstat   0x0000000000000e2e       0x1c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000e2e                _fstat
+ .text._stat    0x0000000000000e4a       0x3a /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000e4a                _stat
+ .text._swiopen
+                0x0000000000000e84       0xb4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000e84                _swiopen
+ .text._get_semihosting_exts
+                0x0000000000000f38       0xb8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000000f38                _get_semihosting_exts
+ .text.initialise_semihosting_exts
+                0x0000000000000ff0       0x34 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._has_ext_exit_extended
+                0x0000000000001024       0x18 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000001024                _has_ext_exit_extended
+ .text._has_ext_stdout_stderr
+                0x000000000000103c       0x18 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000000000103c                _has_ext_stdout_stderr
+ .text.initialise_monitor_handles
+                0x0000000000001054       0xbc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000001054                initialise_monitor_handles
+ .text._isatty  0x0000000000001110       0x38 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000001110                _isatty
+ .text._exit    0x0000000000001148       0x14 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o)
+                0x0000000000001148                _exit
+ .text._kill_shared
+                0x000000000000115c       0x26 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+                0x000000000000115c                _kill_shared
+ *fill*         0x0000000000001182        0x2 
+ .text.__errno  0x0000000000001184        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+                0x0000000000001184                __errno
+ .text.std      0x0000000000001190       0x48 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000000011d8        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000011d8                _cleanup_r
+ .text.__sfmoreglue
+                0x00000000000011e4       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000011e4                __sfmoreglue
+ .text.__sfp_lock_acquire
+                0x0000000000001210        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001210                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x000000000000121c        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x000000000000121c                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x0000000000001228        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001228                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x0000000000001234        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001234                __sinit_lock_release
+ .text.__sinit  0x0000000000001240       0x70 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001240                __sinit
+ .text.__sfp    0x00000000000012b0       0x8c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000012b0                __sfp
+ .text._fwalk_reent
+                0x000000000000133c       0x3e /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+                0x000000000000133c                _fwalk_reent
+ .text.__retarget_lock_init_recursive
+                0x000000000000137a        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x000000000000137a                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x000000000000137c        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x000000000000137c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x000000000000137e        0x2 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x000000000000137e                __retarget_lock_release_recursive
+ .text._malloc_r
+                0x0000000000001380       0xb4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000001380                _malloc_r
+ .text._sbrk_r  0x0000000000001434       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+                0x0000000000001434                _sbrk_r
+ .text.__sread  0x0000000000001454       0x22 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x0000000000001454                __sread
+ .text.__swrite
+                0x0000000000001476       0x38 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x0000000000001476                __swrite
+ .text.__sseek  0x00000000000014ae       0x24 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x00000000000014ae                __sseek
+ .text.__sclose
+                0x00000000000014d2        0x8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x00000000000014d2                __sclose
+ .text          0x00000000000014da       0x10 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+                0x00000000000014da                strlen
+ *fill*         0x00000000000014ea        0x2 
+ .text._write_r
+                0x00000000000014ec       0x24 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+                0x00000000000014ec                _write_r
+ .text._close_r
+                0x0000000000001510       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+                0x0000000000001510                _close_r
+ .text.__sflush_r
+                0x0000000000001530      0x10c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                0x0000000000001530                __sflush_r
+ .text._fflush_r
+                0x000000000000163c       0x78 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                0x000000000000163c                _fflush_r
+ .text._lseek_r
+                0x00000000000016b4       0x24 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+                0x00000000000016b4                _lseek_r
+ .text.__malloc_lock
+                0x00000000000016d8        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x00000000000016d8                __malloc_lock
+ .text.__malloc_unlock
+                0x00000000000016e4        0xc /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x00000000000016e4                __malloc_unlock
+ .text._free_r  0x00000000000016f0       0x98 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+                0x00000000000016f0                _free_r
+ .text._read_r  0x0000000000001788       0x24 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+                0x0000000000001788                _read_r
+ *(.init)
+ .init          0x00000000000017ac        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x00000000000017ac                _init
+ .init          0x00000000000017b0        0x8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x00000000000017b8        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x00000000000017b8                _fini
+ .fini          0x00000000000017bc        0x8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x00000000000017c4        0xe /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ *fill*         0x00000000000017d2        0x2 
+ .rodata._global_impure_ptr
+                0x00000000000017d4        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                0x00000000000017d4                _global_impure_ptr
+ .rodata._vfprintf_r.str1.1
+                0x00000000000017d8       0x11 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x00000000000017e9       0x22 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .rodata._get_semihosting_exts.str1.1
+                0x000000000000180b       0x16 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .rodata.initialise_monitor_handles.str1.1
+                0x0000000000001821        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ *fill*         0x0000000000001825        0x3 
+ .rodata.__sf_fake_stderr
+                0x0000000000001828       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001828                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x0000000000001848       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001848                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x0000000000001868       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001868                __sf_fake_stdout
+ *(.eh_frame*)
+ .eh_frame      0x0000000000001888        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x0000000000001888        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+
+.glue_7         0x000000000000188c        0x0
+ .glue_7        0x000000000000188c        0x0 linker stubs
+
+.glue_7t        0x000000000000188c        0x0
+ .glue_7t       0x000000000000188c        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000188c        0x0
+ .vfp11_veneer  0x000000000000188c        0x0 linker stubs
+
+.v4_bx          0x000000000000188c        0x0
+ .v4_bx         0x000000000000188c        0x0 linker stubs
+
+.iplt           0x000000000000188c        0x0
+ .iplt          0x000000000000188c        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000000000188c                __exidx_start = .
+
+.ARM.exidx      0x000000000000188c        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000000000000188c        0x8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o
+                0x0000000000001894                __exidx_end = .
+                0x0000000000001894                __etext = ALIGN (0x4)
+
+.rel.dyn        0x0000000000001894        0x0
+ .rel.iplt      0x0000000000001894        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.data           0x0000000010000000      0x190 load address 0x0000000000001894
+                0x0000000010000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x0000000010000000      0x118 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o
+                0x0000000010000008                __stack_base__
+ .data._impure_ptr
+                0x0000000010000118        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                0x0000000010000118                _impure_ptr
+ .data.impure_data
+                0x000000001000011c       0x60 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data.__heap_limit
+                0x000000001000017c        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000001000017c                __heap_limit
+ .data.supports_ext_exit_extended
+                0x0000000010000180        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .data.supports_ext_stdout_stderr
+                0x0000000010000184        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000010000188                . = ALIGN (0x4)
+                0x0000000010000188                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000010000188                PROVIDE (__preinit_array_end = .)
+                0x0000000010000188                . = ALIGN (0x4)
+                0x0000000010000188                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000010000188        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x000000001000018c                PROVIDE (__init_array_end = .)
+                0x000000001000018c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000000001000018c        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x0000000010000190                . = ALIGN (0x4)
+                0x0000000010000190                __data_end__ = .
+
+.igot.plt       0x0000000010000190        0x0 load address 0x0000000000001a24
+ .igot.plt      0x0000000010000190        0x0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.bss            0x0000000010000190       0xe4 load address 0x0000000000001a24
+                0x0000000010000190                . = ALIGN (0x4)
+                0x0000000010000190                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000010000190       0x1c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss.heap_end.6339
+                0x00000000100001ac        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x00000000100001b0        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x00000000100001b4        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdout
+                0x00000000100001b8        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x00000000100001bc       0xa0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.__malloc_free_list
+                0x000000001000025c        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000001000025c                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x0000000010000260        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000010000260                __malloc_sbrk_start
+ *(COMMON)
+ COMMON         0x0000000010000264        0x9 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000010000264                __lock___atexit_recursive_mutex
+                0x0000000010000265                __lock___arc4random_mutex
+                0x0000000010000266                __lock___env_recursive_mutex
+                0x0000000010000267                __lock___sinit_recursive_mutex
+                0x0000000010000268                __lock___malloc_recursive_mutex
+                0x0000000010000269                __lock___at_quick_exit_mutex
+                0x000000001000026a                __lock___dd_hash_mutex
+                0x000000001000026b                __lock___tz_mutex
+                0x000000001000026c                __lock___sfp_recursive_mutex
+ *fill*         0x000000001000026d        0x3 
+ COMMON         0x0000000010000270        0x4 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x0000000010000270                errno
+                0x0000000010000274                . = ALIGN (0x4)
+                0x0000000010000274                __bss_end__ = .
+
+.heap           0x0000000010000278        0x0
+                0x0000000010000278                __end__ = .
+                0x0000000010000278                PROVIDE (end = .)
+ *(.heap*)
+ .heap          0x0000000010000278        0x0 /tmp/ccm11qPB.o
+                0x0000000010000278                __HeapLimit = .
+
+.stack_dummy    0x0000000010000278      0xc00
+ *(.stack*)
+ .stack         0x0000000010000278      0xc00 /tmp/ccm11qPB.o
+                0x0000000010002000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000010001400                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                [!provide]                        PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(semihost-CM3.axf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ .ARM.attributes
+                0x0000000000000000       0x1d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/rdimon-crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x2b /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .ARM.attributes
+                0x0000000000000090       0x1b /tmp/ccm11qPB.o
+ .ARM.attributes
+                0x00000000000000ab       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000000d8       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000105       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000132       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000015f       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x000000000000018c       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+ .ARM.attributes
+                0x00000000000001b9       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000000000001e6       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000000000000213       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+ .ARM.attributes
+                0x0000000000000240       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x000000000000026d       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000000000000029a       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000000000002c7       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000000000002f4       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000321       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000000000000034e       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x000000000000037b       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x00000000000003a8       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x00000000000003d5       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000402       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000042f       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000000000000045c       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000489       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000000004b6       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000004e3       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000510       0x17 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000527       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000554       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000581       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000000005ae       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000000005db       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000608       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000635       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000662       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000068f       0x2d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000000006bc       0x1d /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+                                         0x7a (size before relaxing)
+
+.debug_info     0x0000000000000000      0x9d2
+ .debug_info    0x0000000000000000       0x8b /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .debug_info    0x000000000000008b      0x921 /tmp/ccJAKW8G.debug.temp.o
+                0x000000000000008b                semihost.c.01dd36e2
+ .debug_info    0x00000000000009ac       0x26 /tmp/ccm11qPB.o
+
+.debug_abbrev   0x0000000000000000      0x219
+ .debug_abbrev  0x0000000000000000       0x85 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000085      0x180 /tmp/ccJAKW8G.debug.temp.o
+ .debug_abbrev  0x0000000000000205       0x14 /tmp/ccm11qPB.o
+
+.debug_aranges  0x0000000000000000       0x48
+ .debug_aranges
+                0x0000000000000000       0x28 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000028       0x20 /tmp/ccm11qPB.o
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000      0x233
+ .debug_line    0x0000000000000000       0xd4 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .debug_line    0x00000000000000d4       0xfb /tmp/ccJAKW8G.debug.temp.o
+ .debug_line    0x00000000000001cf       0x64 /tmp/ccm11qPB.o
+
+.debug_str      0x0000000000000000      0x69b
+ .debug_str     0x0000000000000000      0x110 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+                                        0x177 (size before relaxing)
+ .debug_str     0x0000000000000110      0x4ff /tmp/ccJAKW8G.debug.temp.o
+                                        0x5d5 (size before relaxing)
+ .debug_str     0x000000000000060f       0x8c /tmp/ccm11qPB.o
+
+.debug_frame    0x0000000000000000      0xd38
+ .debug_frame   0x0000000000000000       0x38 /tmp/semihost-CM3.axf.rE8eRP.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000038       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000060       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x000000000000008c       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000000ac       0x74 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-printf.o)
+ .debug_frame   0x0000000000000120       0x58 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putchar.o)
+ .debug_frame   0x0000000000000178       0xac /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000000224       0x60 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000000284       0x3c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-putc.o)
+ .debug_frame   0x00000000000002c0       0x40 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000000300       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x000000000000032c       0x58 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000384       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00000000000003ac       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000000003d8       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000000404      0x3a8 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .debug_frame   0x00000000000007ac       0x28 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .debug_frame   0x00000000000007d4       0x40 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .debug_frame   0x0000000000000814       0x20 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000834      0x14c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000980       0x54 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000000009d4       0xb0 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000a84       0x30 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000ab4       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000ae0       0x88 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000b68       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000b94       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000bc0       0x5c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000c1c       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000c48       0x30 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000c78       0x38 /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000cb0       0x2c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000cdc       0x5c /home/vasko/opt/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
